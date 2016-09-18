@@ -1,7 +1,7 @@
 # FHEM-MQTT-ESP8266_Power_Consumption
 
 
-...
+```
 # keller ------------------------------------------------
 #
 # --------strom_debug -----------------------------
@@ -92,4 +92,4 @@ attr fileLog_strom_2_verbrauch logtype text
 attr fileLog_strom_2_verbrauch room keller
 define SVG_fileLog_strom_1_verbrauch_1 SVG fileLog_strom_1_verbrauch:SVG_fileLog_strom_1_verbrauch_1:CURRENT
 attr SVG_fileLog_strom_1_verbrauch_1 room keller
-...
+```
